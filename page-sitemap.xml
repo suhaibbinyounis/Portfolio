@@ -3,7 +3,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://suhaibbinyounis.com</loc>
-    <lastmod>2022-12-23T17:07:19+05:30</lastmod>
+    <lastmod>2022-12-25T17:58:40+05:30</lastmod>
     <priority>1</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -20,14 +20,14 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://suhaibbinyounis.com/search/index.html</loc>
-    <lastmod>2022-12-22T16:45:10+05:30</lastmod>
+    <loc>http://suhaibbinyounis.com/tags/index.html</loc>
+    <lastmod>2022-12-22T18:49:09+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://suhaibbinyounis.com/tags/index.html</loc>
-    <lastmod>2022-12-22T18:49:09+05:30</lastmod>
+    <loc>http://suhaibbinyounis.com/search/index.html</loc>
+    <lastmod>2022-12-22T16:45:10+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
