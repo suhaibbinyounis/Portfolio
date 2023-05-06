@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://suhaibbinyounis.com/2023/05/06/About-Me/</loc>
+    
+    <lastmod>2023-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://suhaibbinyounis.com/about/index.html</loc>
     
     <lastmod>2022-12-23</lastmod>
@@ -37,23 +46,21 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://suhaibbinyounis.com/2022/12/22/Website-under-maintainance/</loc>
-    
-    <lastmod>2022-12-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://suhaibbinyounis.com/</loc>
-    <lastmod>2023-01-01</lastmod>
+    <lastmod>2023-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://suhaibbinyounis.com/tags/About/</loc>
+    <lastmod>2023-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
